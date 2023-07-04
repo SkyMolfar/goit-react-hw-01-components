@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SkyMolfar/goit-react-hw-01-components.git/static/css/main.4bd69205.css",
+    "main.js": "/SkyMolfar/goit-react-hw-01-components.git/static/js/main.1bbdda76.js",
+    "index.html": "/SkyMolfar/goit-react-hw-01-components.git/index.html",
+    "main.4bd69205.css.map": "/SkyMolfar/goit-react-hw-01-components.git/static/css/main.4bd69205.css.map",
+    "main.1bbdda76.js.map": "/SkyMolfar/goit-react-hw-01-components.git/static/js/main.1bbdda76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bd69205.css",
+    "static/js/main.1bbdda76.js"
+  ]
+}
